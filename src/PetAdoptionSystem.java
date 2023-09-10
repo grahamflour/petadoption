@@ -32,6 +32,7 @@ public class PetAdoptionSystem{
         availablePets.add(new Pet("Fluffy", "Cat"));
         availablePets.add(new Pet("Buddy", "Dog"));
         availablePets.add(new Pet("Snowball", "Rabbit"));
+        availablePets.add(new Pet("S", "fish"));
 
         System.out.println("Welcome to the Pet Adoption System!");
 
